@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\bin\Debug\01_calculadora.exe.config
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\bin\Debug\01_calculadora.exe
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\bin\Debug\01_calculadora.pdb
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\bin\Debug\01_calculadora.xml
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\obj\Debug\01_calculadora.vbproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\obj\Debug\_01_calculadora.Calculadora_form.resources
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\obj\Debug\_01_calculadora.Resources.resources
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\obj\Debug\01_calculadora.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\obj\Debug\01_calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\obj\Debug\01_calculadora.exe
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\obj\Debug\01_calculadora.xml
+C:\Users\Usuario\source\repos\01_calculadora\01_calculadora\obj\Debug\01_calculadora.pdb
